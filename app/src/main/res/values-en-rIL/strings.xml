@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TIC Tac Toe</string>
+    <string name="_0">0</string>
+    <string name="player_1">Player 1 (x)</string>
+    <string name="player_2">player 2 (o)</string>
+    <string name="reset_board">reset board</string>
+    <string name="save_results">save results</string>
+    <string name="__0">0</string>
+    <string name="results">results</string>
+    <string name="enter_mail">Enter an email address</string>
+    <string name="send_result">Send results to email</string>
+    <string name="back_to_the_game_btn">Back to the game</string>
+    <string name="share">share over</string>
+    <string name="or_send">or send to any other application</string>
+    <string name="share_your_goals">Sharing the results</string>
+    <string name="mail_send_text">Send to email</string>
+</resources>

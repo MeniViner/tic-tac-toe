@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">איקס עיגול</string>
+    <string name="_0">0</string>
+    <string name="player_1">שחקן 1 (x)</string>
+    <string name="player_2">שחקן 2 (o)</string>
+    <string name="reset_board">אפס לוח</string>
+    <string name="save_results">שמור תוצאות</string>
+    <string name="__0">0</string>
+    <string name="results">תוצאות</string>
+    <string name="enter_mail">הזן כתובת מייל</string>
+    <string name="send_result">שלח תוצאות למייל</string>
+    <string name="back_to_the_game_btn">חזרה למשחק</string>
+    <string name="share">שתף</string>
+    <string name="or_send">או שלח לכל יישום אחר</string>
+    <string name="share_your_goals">שיתוף התוצאות</string>
+    <string name="mail_send_text">שלח למייל</string>
+</resources>
