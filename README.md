@@ -16,12 +16,11 @@ Written for our end-of-course project.
 
 
 ## Try It Yourself
-to try this app on your own android device check the [release page](https://github.com/MeniViner/tic-tac-toe/releases/tag/android):
+to try this app on your own android device check the [release page](https://github.com/MeniViner/tic-tac-toe/releases/tag/android).
 
 or click [**here**](https://github.com/MeniViner/tic-tac-toe/releases/download/android/meni.s.Tic.Tac.Toe.apk) to directly start the download.
 
 **Enjoy !**
-
 
 
 ## Features
