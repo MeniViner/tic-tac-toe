@@ -2,7 +2,7 @@
 | made with java in android studio.
 
 Here is a little color-palette-favorite game in Android studio. 
-Written for our end-of-course project with our favorite lecturer.
+Written for our end-of-course project.
 
 ## Game Screens
 
